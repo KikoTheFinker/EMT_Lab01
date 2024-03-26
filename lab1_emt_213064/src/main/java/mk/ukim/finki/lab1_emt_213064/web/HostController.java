@@ -1,5 +1,5 @@
 package mk.ukim.finki.lab1_emt_213064.web;
-
+/*
 import mk.ukim.finki.lab1_emt_213064.service.CountryService;
 import mk.ukim.finki.lab1_emt_213064.service.HostService;
 import org.springframework.stereotype.Controller;
@@ -57,3 +57,4 @@ public class HostController {
     }
 
 }
+*/

@@ -1,4 +1,4 @@
-package mk.ukim.finki.lab1_emt_213064.web;
+/*package mk.ukim.finki.lab1_emt_213064.web;
 
 import mk.ukim.finki.lab1_emt_213064.service.CountryService;
 import org.springframework.stereotype.Controller;
@@ -40,4 +40,4 @@ public class CountryController {
         this.countryService.delete(id);
         return "redirect:/countries";
     }
-}
+} */

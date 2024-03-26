@@ -1,5 +1,5 @@
 package mk.ukim.finki.lab1_emt_213064.web;
-
+/*
 import mk.ukim.finki.lab1_emt_213064.model.Accommodation;
 import mk.ukim.finki.lab1_emt_213064.model.enumerations.Category;
 import mk.ukim.finki.lab1_emt_213064.model.exceptions.AccommodationNotFoundException;
@@ -95,3 +95,4 @@ public class AccommodationController {
     }
 
 }
+*/
